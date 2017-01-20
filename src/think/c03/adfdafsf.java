@@ -11,7 +11,7 @@ public class adfdafsf {
 	 * @version 
 	 */
 	public static void main(String[] args) {
-
+String v = "";
 	}
 
 }
